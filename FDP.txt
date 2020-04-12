@@ -21,3 +21,6 @@ If(G2<40, 'False')
 
 average(large(b2:d2,1),large(b2:d2,2)
 best sol is    = sum (B2:D2)-min(B2:D2)
+
+Learning GIT Hub
+https://github.com/Diwaka10361/Design_Thinking
