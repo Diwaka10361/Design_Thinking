@@ -1,0 +1,23 @@
+https://sites.google.com/view/fdp-gitam-hyd-2020/home
+
+for sum of best of two we can use the formula sum(B1:D1)-min(B1:D1)
+
+=split(cell no,"deliminator")
+delimiter should be mentioned in quotation marks
+
+rand()-->Returns a random number between 0 inclusive and 1 exclusive.
+randbetween()-->Returns a random number between the given range
+
+Click on Macros→ Manage Macros→  Beside the Ctrl+Alt+ Shift shortcut key, click on three vertical dots→ Click on remove 
+
+
+=VLOOKUP(A2,'Master Data'!A:B,2,0)
+
+
+how to select only those students rows whose marks are greater than 80
+Click on filter→ Create new filter. Give a right click on the column which you want to filter and the apply the formula
+
+If(G2<40, 'False')
+
+average(large(b2:d2,1),large(b2:d2,2)
+best sol is    = sum (B2:D2)-min(B2:D2)
